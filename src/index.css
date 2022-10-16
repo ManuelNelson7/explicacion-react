@@ -1,0 +1,13 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.div-contenido {
+    height: 60vh;
+}
+
+.imagen-contenido {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
